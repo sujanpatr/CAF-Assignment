@@ -1,0 +1,15 @@
+Gateway
+endpoint = https://xyz.in
+certurl = https://cloud.internalportal.com
+download loc = /home/user/temp
+
+CXO
+endpont = http://internal.cxo.com
+redirect url =
+broker = http://cxobroker.in
+topic = test_cxo_topic, test_cxo_topic_1
+
+Order Service
+broker = https://orbroker.in
+topic = test_os_topic_1, test_os_topic_2
+
